@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33312'
     url: http://www.gutenberg.org/2009/agents/33312
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28401#Free-and-Impartial-Thoughts-on-the-Sovereignty-of-God-The-Doctrines-of-Election-Reprobation-a_
 gutenberg_issued: '2009-03-24'
 gutenberg_type: Text
 identifiers:
